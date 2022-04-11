@@ -12,3 +12,6 @@ node_modules
 js/build.js
 styles/build.css
 error_log
+_Trash
+plugins/themes/bootstrap3
+package-lock.json
